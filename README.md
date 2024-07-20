@@ -1,3 +1,3 @@
 # PatternRecognition_AIA_HUST
-<p>🤗2022 Homework of PatternRecognition Course of the School of AIA-HUST.🤗</p>
-<p>🙌2022年华科AIA学院模式识别编程作业。🙌</p>
+<p>🤗Coding Homework of the PatternRecognition Course of the School of AIA, HUST. (2022)🤗</p>
+<p>🙌2022年(20级)华科A院模式识别编程作业。🙌</p>
